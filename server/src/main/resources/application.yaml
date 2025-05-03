@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: server
+  datasource:
+    url: jdbc:mysql://${DB_SERVER}:3306/pokeapp
+    username: ${DB_USERNAME}
+    password: ${DB_PASSWORD}
+
+server:
+  port: 4445
