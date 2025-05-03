@@ -7,4 +7,5 @@
 - **Docker** - Containerization for both front-end and back-end applications
 - **Jenkins** - Server-side setup for automated container deployment
 
-![JenkinsDeployment](https://github.com/user-attachments/assets/8968d264-8e7d-4ac5-b9c0-76c3e2bd31f9)
+
+![JenkinsDeployment](https://github.com/user-attachments/assets/25f36f01-c466-4242-975a-0030ac3d4133)
