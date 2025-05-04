@@ -1,5 +1,7 @@
 # Personal Project
 
+Personal project serving as a proof of concept (PoC) to demonstrate communication between containerized front-end and back-end applications, with a Jenkins pipeline enabling continuous deployment (CD).
+
 ## Technology Stack:
 - **Angular** - Front-end application
 - **Spring Boot** - Back-end application with database integration
